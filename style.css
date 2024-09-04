@@ -15,7 +15,9 @@
   width: 100%;
   height: auto;
 }
-
+.brown-text {
+  color : #021526 !important;
+}
 .tracker {
   position: fixed;
   bottom: 0; 
@@ -108,8 +110,8 @@ a {
 }
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #0077b5;
+  color: #0077b5;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -345,7 +347,7 @@ h3 {
 }
 
 .card ul li li {
-  color: #666;
+  color: #000;
   font-size: 13px;
 }
 
