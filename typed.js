@@ -1,12 +1,3 @@
-/*!
- * 
- *   typed.js - A JavaScript Typing Animation Library
- *   Author: Matt Boldt <me@mattboldt.com>
- *   Version: v2.0.11
- *   Url: https://github.com/mattboldt/typed.js
- *   License(s): MIT
- * 
- */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
@@ -953,11 +944,6 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 3 */
 /***/ (function(module, exports) {
 
-	/**
-	 * TODO: These methods can probably be combined somehow
-	 * Parse HTML tags & HTML Characters
-	 */
-	
 	'use strict';
 	
 	Object.defineProperty(exports, '__esModule', {
